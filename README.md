@@ -21,4 +21,4 @@
 
 # Word2Vec and PCA 
 In this project I have taken the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api. The tweets have been labeled (0 = negative, 4 = positive). 
-Here I have shown the data distribution. In this case the positive and the negative labeled tweets. For visualising the positive ad negative labeled tweets from the datase, I have used WORD2VEC and PCA. Through WORD2VEC model the strings are converted as vectors and for reducing the dimensionality the PCA or Principal Component Analysis is used.
+Here I have shown the data distribution. In this case the positive and the negative labeled tweets. For visualising the positive and negative labeled tweets from the dataset, I have used WORD2VEC and PCA. Through WORD2VEC model the strings are converted as vectors and for reducing the dimensionality the PCA or Principal Component Analysis is used.
